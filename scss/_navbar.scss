@@ -41,7 +41,9 @@
         }
     }
 }
-
+#map {
+    height: 700px;
+}
 @media(min-width:992px) {
     #mainNav {
         padding: 25px 0;
